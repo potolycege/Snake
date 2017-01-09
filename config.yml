@@ -1,0 +1,35 @@
+game-location:
+    world: world
+    x: 0
+    y: 4
+    z: 0
+    corner1:
+      x: -4
+      y: 4
+      z: 15
+    corner2:
+      x: 8
+      y: 4
+      z: -4
+buttons:
+    up:
+        x: 10
+        y: 5
+        z: 5
+    down:
+        x: 11
+        y: 5
+        z: 5
+    left:
+        x: 11
+        y: 5
+        z: 6
+    right:
+        x: 11
+        y: 5
+        z: 4
+direction:
+  up: NORTH
+  down: SOUTH
+  left: WEST
+  right: EAST

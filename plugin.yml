@@ -1,0 +1,8 @@
+name: Snake
+version: 1.0.0
+main: fr.dabsunter.snake.SnakePlugin
+author: Dabsunter
+
+commands:
+  snake:
+    usage: /<command> start|stop|reset|reload
